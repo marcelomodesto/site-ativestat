@@ -1,0 +1,234 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+.megamenu {
+  position: static;
+}
+
+.megamenu .dropdown-menu {
+  background: none;
+  border: none;
+  width: 100%;
+}
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+body {
+/*
+  background: #eaafc8;
+  background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);
+  background: linear-gradient(to right, #eaafc8, #654ea3);
+  min-height: 100vh;
+  */
+  color: #444444 !important;
+}
+
+code {
+  color: #745eb1;
+  background: #fff;
+  padding: 0.1rem 0.2rem;
+  border-radius: 0.2rem;
+}
+
+.text-uppercase {
+  letter-spacing: 0.08em;
+}
+
+
+.logo-img {
+  padding: 10px;
+}
+
+.titulo-menu {
+  color: #b9c8d5 !important;
+  line-height: 55px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  letter-spacing: 0em;
+}
+
+
+.item-menu {
+  color: #b9c8d5 !important;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #444444;
+  margin-top: 60px;
+}
+
+.footer a {
+
+  color: #444444;
+}
+
+
+.logo-footer {
+  max-height: 50px;
+}
+
+.bg-lightgray {
+  background-color: #f7f7f7;
+}
+
+
+
+/* ICONES PDF ,  DOC E  PLAY SOBRE OS LINKS  */
+
+
+#pdf {
+    background-image: url(http://www.ime.usp.br/images/arquivos/imagens/pdf-24x24.png);
+    display: block;
+    margin: auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+    }
+
+#doc {
+    background-image: url(http://www.ime.usp.br/images/arquivos/imagens/doc-24x24.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+
+    }
+
+
+
+#play {
+    background-image: url(/ativestat/img/play-24x24-blue.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+
+
+#bullet {
+    background-image: url(/ativestat/img/bullet-24x24-blue.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+#windows {
+    background-image: url(/ativestat/img/windows-24x24.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+
+#plan {
+    background-image: url(/ativestat/img/plan-24x24.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+#sheet {
+    background-image: url(/ativestat/img/sheet-24x24.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+
+#book {
+    background-image: url(/ativestat/img/book-24x24.png);
+    display: block;
+    margin: 0 auto;
+    text-indent: -9999px;
+    width: 24px;
+    height: 24px;
+}
+
+
+
+
+/* TABELA ESPACADA   */
+
+#te {
+/*        border:1px solid gray;*/
+        /*      padding:4px;*/
+ }
+
+
+#te tr:nth-of-type(odd){
+        background-color:#eee;
+}
+
+#te tr:nth-of-type(even){
+/*        background-color:#ccc;*/
+}
+
+
+#te th{
+        color: #000;
+        font-weight: bold;
+        padding: 8px;
+}
+
+#te td{
+        padding: 8px;
+        color: #000;
+        font-weight: normal;
+}
+
+
+/* TABELA ESPACADA COM BORDA  */
+
+#teb {
+        border:1px solid gray;
+        padding:4px;
+ }
+
+
+#teb tr:nth-of-type(odd){
+        background-color:#f2f2f2;
+}
+
+#teb tr:nth-of-type(even){
+        background-color:#fff;
+}
+
+
+#teb th{
+        color: #000;
+        font-weight: bold;
+        padding: 8px;
+	background-color:#eee;
+	border: 1px solid;
+}
+
+#teb td{
+        padding: 8px;
+        color: #000;
+        font-weight: normal;
+	border: 1px solid;
+}

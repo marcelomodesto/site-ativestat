@@ -91,19 +91,19 @@
 														<h6 class="font-weight-bold text-uppercase item-menu">Tipo de
 															atividade</h6>
 														<ul class="list-unstyled">
-															<li class="nav-item"><a href="/ativestat/aula.html"
+															<li class="nav-item"><a href="/ativestat/aula.php"
 																	class="nav-link text-small pb-0 item-menu">Sala de
 																	aula</a></li>
-															<li class="nav-item"><a href="/ativestat/planilhas.html"
+															<li class="nav-item"><a href="/ativestat/planilhas.php"
 																	class="nav-link text-small pb-0 item-menu">Planilhas</a>
 															</li>
-															<li class="nav-item"><a href="/ativestat/projetos.html"
+															<li class="nav-item"><a href="/ativestat/projetos.php"
 																	class="nav-link text-small pb-0 item-menu">Projetos</a>
 															</li>
-															<li class="nav-item"><a href="/ativestat/filmes.html"
+															<li class="nav-item"><a href="/ativestat/filmes.php"
 																	class="nav-link text-small pb-0 item-menu">Filmes e
 																	vídeos</a></li>
-															<li class="nav-item"><a href="/ativestat/aplicativos.html"
+															<li class="nav-item"><a href="/ativestat/aplicativos.php"
 																	class="nav-link text-small pb-0 item-menu">Miniaplicativos</a>
 															</li>
 														</ul>
@@ -113,19 +113,19 @@
 														</h6>
 														<ul class="list-unstyled">
 															<li class="nav-item"><a
-																	href="/ativestat/graficos-tabelas.html"
+																	href="/ativestat/graficos-tabelas.php"
 																	class="nav-link text-small pb-0 item-menu">Gráficos
 																	e tabelas</a></li>
 															<li class="nav-item"><a
-																	href="/ativestat/medidas-resumo.html"
+																	href="/ativestat/medidas-resumo.php"
 																	class="nav-link text-small pb-0 item-menu">Medidas
 																	resumo</a></li>
 															<li class="nav-item"><a
-																	href="/ativestat/probabilidade-modelos.html"
+																	href="/ativestat/probabilidade-modelos.php"
 																	class="nav-link text-small pb-0 item-menu">Probabilidade
 																	e modelos</a></li>
 															<li class="nav-item"><a
-																	href="/ativestat/inferencia-estatistica.html"
+																	href="/ativestat/inferencia-estatistica.php"
 																	class="nav-link text-small pb-0 item-menu">Inferência
 																	estatística</a></li>
 														</ul>
@@ -135,14 +135,14 @@
 															ensino</h6>
 														<ul class="list-unstyled">
 															<li class="nav-item"><a
-																	href="/ativestat/ensino-fundamental.html"
+																	href="/ativestat/ensino-fundamental.php"
 																	class="nav-link text-small pb-0 item-menu">Fundamental</a>
 															</li>
-															<li class="nav-item"><a href="/ativestat/ensino-medio.html"
+															<li class="nav-item"><a href="/ativestat/ensino-medio.php"
 																	class="nav-link text-small pb-0 item-menu">Médio</a>
 															</li>
 															<li class="nav-item"><a
-																	href="/ativestat/ensino-superior.html"
+																	href="/ativestat/ensino-superior.php"
 																	class="nav-link text-small pb-0 item-menu">Superior</a>
 															</li>
 														</ul>
@@ -156,9 +156,9 @@
 								</div>
 							</div>
 						</li>
-						<li class="nav-item"><a href="/ativestat/portais.html"
+						<li class="nav-item"><a href="/ativestat/portais.php"
 								class="nav-link text-uppercase titulo-menu">Portais de interesse</a></li>
-						<li class="nav-item"><a href="/ativestat/contato.html"
+						<li class="nav-item"><a href="/ativestat/contato.php"
 								class="nav-link text-uppercase titulo-menu">Equipe</a></li>
 
 					</ul>
@@ -171,138 +171,3 @@
 
 
 
-
-
-
-	<div id="t3-mainbody" class="container t3-mainbody">
-		<div class="row">
-
-			<!-- MAIN CONTENT -->
-			<div id="t3-content" class="t3-content col-xs-12">
-
-
-				<div class="item-page clearfix">
-
-
-					<!-- Article -->
-					<article itemscope itemtype="http://schema.org/Article">
-						<meta itemprop="inLanguage" content="pt-BR" />
-						<meta itemprop="url" content="/ativestat1/atividades" />
-
-
-						<header class="article-header clearfix">
-							<h1 class="article-title" itemprop="name">
-								Atividades
-								<meta itemprop="url" content="https://www.ime.usp.br/ativestat1/atividades" />
-							</h1>
-
-						</header>
-
-						<!-- Aside -->
-						<!-- //Aside -->
-
-
-
-
-
-
-
-
-						<section class="article-content clearfix" itemprop="articleBody">
-							<div><span style="font-size: 12pt; color: #666666;">No quadro abaixo é possível acessar a
-									listagem completa das atividades separadas por <em>Tipo de
-										atividade,&nbsp;</em><em>Assunto </em>ou<em> N</em><em>ível de
-										Ensino</em>&nbsp;. Algumas atividades <span
-										style="font-size: 12pt; color: #666666;"><span
-											style="font-size: 12pt; color: #666666;">envolvem mais de um assunto e/ou
-										</span>nível escolar e </span>estarão presentes em todas as listagens
-									correspondentes.</span></div>
-							<div class="destaque">
-								<div class="destaque3"><span class="titulo_lista">Tipo de Atividade</span>
-									<ul>
-										<li><a href="/ativestat1/atividades/aula">Sala de aula</a></li>
-										<li><a href="/ativestat1/atividades/planilhas">Planilhas</a></li>
-										<li><a href="/ativestat1/atividades/projetos">Projetos</a></li>
-										<li><a href="/ativestat1/atividades/filmes">Filmes e Vídeos</a></li>
-										<li><a href="/ativestat1/atividades/aplicativos">Miniaplicativos</a></li>
-									</ul>
-								</div>
-								<div class="destaque1"><span class="titulo_lista">Assunto</span>
-									<ul>
-										<li><a href="/ativestat1/atividades/graficos">Gráficos e Tabelas</a></li>
-										<li><a href="/ativestat1/atividades/medidas">Medidas Resumo</a></li>
-										<li><a href="/ativestat1/atividades/probabilidade">Probabilidade e Modelos</a>
-										</li>
-										<li><a href="/ativestat1/atividades/inferencia">Inferência Estatística</a></li>
-									</ul>
-								</div>
-								<div class="destaque2"><span class="titulo_lista">Nível de Ensino</span>
-									<ul>
-										<li><a href="/ativestat1/atividades/fundamental">Fundamental</a></li>
-										<li><a href="/ativestat1/atividades/medio">Médio</a></li>
-										<li><a href="/ativestat1/atividades/superior">Superior</a></li>
-									</ul>
-								</div>
-							</div>
-						</section>
-
-						<!-- footer -->
-						<!-- //footer -->
-
-
-
-					</article>
-					<!-- //Article -->
-
-
-				</div>
-
-
-			</div>
-			<!-- //MAIN CONTENT -->
-
-		</div>
-	</div>
-
-	<!-- FOOTER -->
-	<footer>
-		<div class="container-fluid bg-lightgray">
-			<div class="container footer">
-				<div class="row">
-
-				</div>
-				<div class="row">
-					<div class=" col-10">
-						<a href="http://www.ime.usp.br"><img src="img/logo-ime-t.png" alt="IME"
-								class="logo-footer" /></a>
-					</div>
-					<div class=" col-2">
-						<a href="http://www.usp.br"><img src="img/usp-logo-azul-150-t.png" alt="USP"
-								class="logo-footer" /></a>
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!-- //FOOTER -->
-
-
-
-	<!-------------------------------------------------Google Analitycs--------------------------------------------------->
-	<script type="text/javascript">
-
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-16554103-6']);
-		_gaq.push(['_trackPageview']);
-
-		(function () {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-
-	</script>
-</body>
-
-</html>
