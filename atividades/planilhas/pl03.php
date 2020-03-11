@@ -51,7 +51,7 @@ include($config->cabecalho);
 						<p><strong>Resumo</strong>:</p>
 						<p style="text-align: justify;">Nessa atividade, os estudantes usam a planilha de algum software (Excel, LibreOffice, etc) para simular lançamentos de um dado desequilibrado. O dado a ser lançado tem probabilidade de cada face proporcional ao número na face. Cada dupla de estudantes acessa no computador uma planilha que, em geral, têm um gerador de números aleatórios que sorteia números, com mesma probabilidade, dentro de um intervalo. Cabe aos estudantes refletir como adaptar esse sorteio para a situação de diferentes probabilidades. Vencida essa etapa, cada dupla de estudantes obtém amostras de lançamentos do dado. Os resultados devem ser discutidos para reforçar o conceito de eventos aleatórios.</p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/PL03_detalhes_dado_desequilibrado.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
+						<p><a href="/ativestat/arquivos/PL03_detalhes.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
 						<p>&nbsp;</p>
 					</section>
 

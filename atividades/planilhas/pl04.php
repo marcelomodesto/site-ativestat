@@ -51,7 +51,7 @@ include($config->cabecalho);
 						<p><strong>Resumo</strong>:</p>
 						<p style="text-align: justify;">Nessa atividade, os estudantes usam a planilha de algum software (Excel, LibreOffice, etc) para simular lançamentos de um dado especial. O dado a ser lançado é equilibrado, porém nas faces existem repetições de números. No caso considerado, das seis faces do dado temos duas com o valor 1, três com o valor 2 e uma face com o valor 3. Cada dupla de estudantes acessa no computador uma planilha que, em geral, têm um gerador de números aleatórios que sorteia números, com mesma probabilidade, dentro de um intervalo. Cabe aos estudantes refletir como adaptar essesorteio para a situação desse dado especial. Vencida essa etapa, cada dupla de estudantes obtém amostras de lançamentos do dado. Os resultados devem ser discutidos para reforçar o conceito de eventos aleatórios.</p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/PL04_detalhes_dado_especial.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
+						<p><a href="/ativestat/arquivos/PL04_detalhes.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
 						<p>&nbsp;</p>
 					</section>
 

@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p style="text-align: justify;"><strong>Resumo:</strong></p>
 						<p style="text-align: justify;">A atividade tem como objetivo calcular aproximações para o número π, usando a geração aleatória de pontos. Considere a escolha de um ponto, ao acaso, em um quadrado com círculo inscrito. A probabilidade, do ponto escolhido, cair no círculo é π /4 (ver <a href="/images/arquivos/imagens/ativestat/PL05-detalhes.pdf" target="_blank" rel="noopener noreferrer">Mais Detalhes</a>). Os estudantes organizados em pares vão obter estimativas para essa probabilidade e então calcular estimativas para π. Como estudo adicional, os estudantes podem discutir a variabilidade das aproximações obtidas.</p>
 						<p style="text-align: justify;">&nbsp;</p>
-						<p style="text-align: justify;"><a href="/images/arquivos/imagens/ativestat/PL05_Valor_de_Pi_Detalhes.pdf" target="_blank" rel="noopener noreferrer">Mais detalhes</a></p>
+						<p style="text-align: justify;"><a href="/ativestat/arquivos/PL05_detalhes.pdf" target="_blank" rel="noopener noreferrer">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->

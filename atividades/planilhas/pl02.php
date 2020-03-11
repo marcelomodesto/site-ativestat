@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><strong>Resumo</strong>:</p>
 						<p style="text-align: justify;">Nessa atividade, os estudantes usam a planilha de algum software (Excel, LibreOffice, etc) para simular lançamentos de um dado equilibrado. Cada dupla de estudantes acessa no computador uma planilha que, em geral, tem um gerador de números aleatórios. Esse gerador imita o sorteio de números, com mesma probabilidade, dentro de um intervalo. Usando o gerador aleatório, cada dupla de estudantes obtém uma amostra de lançamentos de um dado equilibrado. Os resultados devem ser discutidos para reforçar o conceito de eventos aleatórios.</p>
 						<p style="text-align: justify;">&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/PL02_detalhes_dado_equilibrado.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
+						<p><a href="/ativestat/arquivos/PL02_detalhes.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
 					</section>
 
 					<!-- footer -->
