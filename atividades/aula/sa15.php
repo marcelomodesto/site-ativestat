@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><strong>Resumo</strong>:</p>
 						<p style="text-align: justify;"><span> O objetivo da atividade é fazer comparação entre duas subpopulações, refletindo sobre a aleatoriedade e os processos de amostragem. A classe é dividida em grupos e será fornecida uma tabela de dados (acesse o </span><span>Mais detalhes</span><span>) com altura e gênero de 212 indivíduos que irão constituir a população de interesse. Os grupos coletam uma amostra de 30 itens, em cada subpopulação de gênero, usando a criatividade para fazer a coleta de uma forma que </span>imite a amostra aleatória simples com reposição. Com as observações coletadas, eles constroem a “caixa” do gráfico <span>box-plot</span><span> para cada subpopulação. O professor promove uma discussão geral na classe sobre os procedimentos amostrais utilizados e os resultados de cada grupo.</span></p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA15-Detalhes.pdf" target="_blank"><span><span>Mais detalhes</span></span></a></p>
+						<p><a href="/ativestat/arquivos/SA15_detalhes.pdf" target="_blank"><span><span>Mais detalhes</span></span></a></p>
 					</section>
 
 					<!-- footer -->

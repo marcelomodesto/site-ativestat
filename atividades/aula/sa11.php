@@ -56,7 +56,7 @@ include($config->cabecalho);
 							podem aumentar ou diminuir a quantidade de sono. Essa atividade foi adaptada de
 							Are you getting enough zzz? do CensusAtSchool da Nova Zelândia.</p>
 						<p>&nbsp;</p>
-						<p><strong><a href="/images/arquivos/imagens/ativestat/SA11-detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
+						<p><strong><a href="/ativestat/arquivos/SA11_detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
 						<p>&nbsp;</p>
 					</section>
 

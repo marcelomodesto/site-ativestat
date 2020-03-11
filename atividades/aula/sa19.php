@@ -51,7 +51,7 @@ include($config->cabecalho);
 						<p style="text-align: justify;">Nesta atividade será feita uma experiência de inferência estatística informal usando gráficos de pontos. A população de interesse é o tamanho de calçado dos estudantes da classe. Faz-se um sorteio de uma <em>amostra aleatória simples com reposição</em> de 10 indivíduos de cada gênero. Com os valores sorteados constroem-se gráficos de pontos em cartolinas. O professor incentiva os estudantes a fazerem comparações entre os gêneros, referente ao tamanho de calçado, a partir dos gráficos obtidos. Também, solicita conclusões sobre a população de moças e rapazes da sala, com base nas duas amostras coletadas (inferência informal). Em seguida, são feitos os gráficos populacionais para se avaliar a qualidade das conclusões feitas pelos estudantes.</p>
 						<p>&nbsp;</p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA19-detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA19_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->

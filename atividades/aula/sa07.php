@@ -65,7 +65,7 @@ include($config->cabecalho);
 							(peixes no lago). Atividade da oficina “Estatística para todos” desenvolvida
 							pela professora Lisbeth K. Cordani.</p>
 						<p>&nbsp;</p>
-						<p><strong><a href="/~abe/ce-arquivos/Oficina.pdf" target="_blank" rel="noopener">Mais detalhes</a></strong> (pág. 15 a 22).</p>
+						<p><strong><a href="http://www.ime.usp.br/~abe/ce-arquivos/Oficina.pdf" target="_blank" rel="noopener">Mais detalhes</a></strong> (pág. 15 a 22).</p>
 						<p>&nbsp;</p>
 					</section>
 

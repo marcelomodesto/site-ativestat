@@ -58,7 +58,7 @@ include($config->cabecalho);
 							Inferência Estatística Informal, no caso, a de proporção de uma característica
 							em uma população.</p>
 						<p>&nbsp;</p>
-						<p><strong><a href="/images/arquivos/imagens/ativestat/SA08-detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
+						<p><strong><a href="/ativestat/arquivos/SA08_detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
 						<p>&nbsp;</p>
 					</section>
 

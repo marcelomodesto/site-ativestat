@@ -56,7 +56,7 @@ include($config->cabecalho);
 							(ver Mais detalhes) e é feita uma comparação dos resultados. Baseada na
 							atividade “Speedster” do CensusAtSchool da Nova Zelândia.</p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/departamentos/mae/ativestat/SA10_detalhes.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
+						<p><a href="/ativestat/arquivos/SA10_detalhes.pdf" target="_blank"><strong>Mais detalhes</strong></a></p>
 						<p>&nbsp;</p>
 					</section>
 

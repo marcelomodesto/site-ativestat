@@ -51,7 +51,7 @@ include($config->cabecalho);
 						<p style="text-align: justify;">A atividade é baseada no chamado problema de Monty Hall, ou problema das portas, que ficou muito famoso nos EUA por conta do programa de TV Let's Make a Deal. Nessa atividade as portas são substituídas por cartas com o apresentador mostrando três cartas viradas para baixo, das quais uma contém um prêmio e as outras duas contém a figura de uma cabra. O participante escolhe uma carta e o apresentador vira uma das outras duas cartas restantes, que não tem o prêmio, oferecendo a oportunidade de trocar de carta. O participante faz sua opção e o apresentador revela a carta que tem o prêmio. A atividade se desenvolve com os estudantes praticando as escolhas e registrando as ocorrências das sucessivas rodadas. Ao final da atividade abre-se uma discussão sobre qual a melhor decisão, trocar ou permanecer com a escolha inicial. O professor pode, dependendo do nível de ensino da classe, fazer a resolução teórica do problema.</p>
 						<p style="text-align: justify;">Obs.: essa versão do problema foi inspirada em atividade desenvolvida por Lisbeth Cordani na oficina <em>Estatística para todos</em>.</p>
 						<p style="text-align: justify;">&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA20-detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA20_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->

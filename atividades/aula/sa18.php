@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><strong>Resumo</strong>:</p>
 						<p style="text-align: justify;">A atividade discute os conceitos de média e mediana através de um leilão. O professor apresenta um gráfico de pontos de um conjunto de dados e pede para que cada estudante dê um palpite para o valor da média e da mediana. É interessante que o professor estipule um tempo para que os estudantes pensem em seus palpites. Depois, o professor revela qual o valor real da média e da mediana. Em cada leilão, o lance é calculado pela distância entre o palpite e o valor real. Vence o leilão o estudante que der o menor lance, ou seja, aquele cujo palpite se aproxima mais do valor real da média ou da mediana. O professor pode preparar o seu próprio gráfico de pontos ou utilizar os gráficos disponíveis no Mais detalhes.</p>
 						<p style="text-align: justify;">&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA18_-_detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA18_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->

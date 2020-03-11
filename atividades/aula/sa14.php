@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><span color="#ff0000"><span size="3"><strong>Resumo</strong>:</span></span></p>
 						<p style="text-align: justify;"><span color="#000000"><span size="3">Esta atividade tem por objetivo reconhecer e incentivar o uso da Estatística no dia-a-dia. O professor propõe algum assunto de interesse dos estudantes e, após a coleta de informações, promove uma discussão geral na classe. Alguns assuntos polêmicos e/ou de grande repercussão na mídia podem ser escolhidos, tais como: uso do celular em sala de aula, ensino religioso nas escolas, permitir habilitação para dirigir aos 16 anos, legalização do aborto, etc.. A discussão será embasada em dados estatísticos que os próprios estudantes irão procurar em jornais, revistas e internet.</span></span></p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA14-Detalhes.pdf" target="_blank"><span color="#ff0000"><span size="3">Mais detalhes</span></span></a></p>
+						<p><a href="/ativestat/arquivos/SA14_detalhes.pdf" target="_blank"><span color="#ff0000"><span size="3">Mais detalhes</span></span></a></p>
 					</section>
 
 					<!-- footer -->

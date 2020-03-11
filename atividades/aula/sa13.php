@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><strong>Resumo:</strong></p>
 						<p align="justify"><span size="3">O objetivo da atividade é discutir o conceito de aleatoriedade a partir do lançamento de um dado. Os </span><span color="#000000"><span size="3">estudantes se dividem em duplas para responder se o dado que receberam é “honesto” (equilibrado). Cada dupla prepara uma argumentação para sua resposta baseada em seis lançamentos do dado. Após as argumentações das duplas serem apresentadas para a classe, o professor deve fazer uma discussão geral. É importante comentar sobre aleatoriedade, tamanho de amostra e erros incluídos na estimação da probabilidade de ocorrência nos dados.</span></span></p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA13-Detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA13_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 						<p>&nbsp;</p>
 					</section>
 

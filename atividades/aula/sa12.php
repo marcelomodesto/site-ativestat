@@ -62,7 +62,7 @@ include($config->cabecalho);
 							comparando os resultados da classe com a afirmação apresentada inicialmente<span style="font-size: 12pt; line-height: 115%; font-family: 'Calibri','sans-serif'; color: #00000a;">.</span>
 						</p>
 						<p>&nbsp;</p>
-						<p><strong><a href="/images/arquivos/imagens/ativestat/SA12-detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
+						<p><strong><a href="/ativestat/arquivos/SA12_detalhes.pdf" target="_blank">Mais detalhes</a></strong></p>
 						<p>&nbsp;</p>
 					</section>
 

@@ -53,7 +53,7 @@ include($config->cabecalho);
 							padrão. Atividade da oficina “Estatística para todos” desenvolvida pela
 							professora Lisbeth K. Cordani.</p>
 						<p>&nbsp;</p>
-						<p><strong><a href="/~abe/ce-arquivos/Oficina.pdf" target="_blank" rel="noopener">Mais detalhes</a></strong> (pág. 23 a 29).</p>
+						<p><strong><a href="http://www.ime.usp.br/~abe/ce-arquivos/Oficina.pdf" target="_blank" rel="noopener">Mais detalhes</a></strong> (pág. 23 a 29).</p>
 						<p>&nbsp;</p>
 					</section>
 

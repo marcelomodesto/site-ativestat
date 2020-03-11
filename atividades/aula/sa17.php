@@ -50,7 +50,7 @@ include($config->cabecalho);
 						<p><span><strong>Resumo</strong>:</span></p>
 						<p style="text-align: justify;"><span>Esta atividade reforça conceitos de probabilidade e de inferência informal em um jogo de trilha com uma moeda (que é suposta equilibrada). Com a classe dividida em duplas, um estudante fica com cara e o outro com coroa e isto será usado para indicar o vencedor. Em cada rodada, o resultado da moeda lançada corresponde aos avanços sucessivos de um peão na trilha. Se resultar em cara, o peão anda 1 casa; se coroa, anda 2 casas. A rodada termina quando o peão chegar ou ultrapassar o final da trilha, que tem 4 casas. A face que resultou no fim da rodada é considerada a face vencedora e o respectivo estudante vencedor. São feitas 10 rodadas e, ao final calcula-se a frequência relativa de vitórias de cada um dos membros da dupla. Em seguida,</span><span> os estudantes calculam a probabilidade de ganhar o jogo com cara ou com coroa.</span><span> O professor reúne a classe e faz uma discussão sobre os resultados. Esta atividade foi inspirada no Jogo da Trilha do portal M3 da Unicamp.</span></p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA17_Detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA17_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->

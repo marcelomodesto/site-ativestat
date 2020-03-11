@@ -53,7 +53,7 @@ include($config->cabecalho);
 						<p style="text-align: justify;">&nbsp;</p>
 						<p>&nbsp;</p>
 						<p>&nbsp;</p>
-						<p><a href="/images/arquivos/imagens/ativestat/SA23-detalhes.pdf" target="_blank">Mais detalhes</a></p>
+						<p><a href="/ativestat/arquivos/SA23_detalhes.pdf" target="_blank">Mais detalhes</a></p>
 					</section>
 
 					<!-- footer -->
