@@ -22,13 +22,13 @@ include($config->cabecalho);
 				<!-- Article -->
 				<article itemscope itemtype="http://schema.org/Article">
 					<meta itemprop="inLanguage" content="pt-BR" />
-					<meta itemprop="url" content="/ativestat1/atividades/filmes/fv09" />
+					<meta itemprop="url" content="/ativestat/atividades/filmes/fv09" />
 
 
 					<header class="article-header clearfix">
 						<h1 class="article-title" itemprop="name">
 							FV09 – Hans Rosling: 200 países, 200 anos, 4 minutos
-							<meta itemprop="url" content="https://www.ime.usp.br/ativestat1/atividades/filmes/fv09" />
+							<meta itemprop="url" content="https://www.ime.usp.br/ativestat/atividades/filmes/fv09" />
 						</h1>
 
 					</header>

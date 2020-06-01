@@ -23,13 +23,13 @@ include($config->cabecalho);
 				<!-- Article -->
 				<article itemscope itemtype="http://schema.org/Article">
 					<meta itemprop="inLanguage" content="pt-BR" />
-					<meta itemprop="url" content="/ativestat1/contato" />
+					<meta itemprop="url" content="/ativestat/contato" />
 
 
 					<header class="article-header clearfix">
 						<h1 class="article-title" itemprop="name">
 							Fale conosco/Equipe
-							<meta itemprop="url" content="https://www.ime.usp.br/ativestat1/contato" />
+							<meta itemprop="url" content="https://www.ime.usp.br/ativestat/contato" />
 						</h1>
 
 					</header>

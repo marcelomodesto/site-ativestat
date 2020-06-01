@@ -19,13 +19,13 @@ include($config->cabecalho);
 				<!-- Article -->
 				<article itemscope itemtype="http://schema.org/Article">
 					<meta itemprop="inLanguage" content="pt-BR" />
-					<meta itemprop="url" content="/ativestat1/atividades/projetos" />
+					<meta itemprop="url" content="/ativestat/atividades/projetos" />
 
 
 					<header class="article-header clearfix">
 						<h1 class="article-title" itemprop="name">
 							Lista de Propostas de Projeto
-							<meta itemprop="url" content="https://www.ime.usp.br/ativestat1/atividades/projetos" />
+							<meta itemprop="url" content="https://www.ime.usp.br/ativestat/atividades/projetos" />
 						</h1>
 
 					</header>

@@ -21,13 +21,13 @@ include($config->cabecalho);
 				<!-- Article -->
 				<article itemscope itemtype="http://schema.org/Article">
 					<meta itemprop="inLanguage" content="pt-BR" />
-					<meta itemprop="url" content="/ativestat1/atividades/filmes/fv01" />
+					<meta itemprop="url" content="/ativestat/atividades/filmes/fv01" />
 
 
 					<header class="article-header clearfix">
 						<h1 class="article-title" itemprop="name">
 							FV01 – Hans Rosling: as melhores estatísticas que você já viu
-							<meta itemprop="url" content="https://www.ime.usp.br/ativestat1/atividades/filmes/fv01" />
+							<meta itemprop="url" content="https://www.ime.usp.br/ativestat/atividades/filmes/fv01" />
 						</h1>
 
 					</header>
