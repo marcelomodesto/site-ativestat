@@ -122,7 +122,7 @@ include($config->cabecalho);
 									</tr>
 									<tr>
 										<td><a href="/ativestat/atividades/aula/sa16.php" id="book">aula</a></td>
-										<td><a href="/ativestat/atividades/aula/sa16">SA16:&nbsp;Jankenpon</a></td>
+										<td><a href="/ativestat/atividades/aula/sa16.php">SA16:&nbsp;Jankenpon</a></td>
 									</tr>
 									<tr>
 										<td><a href="/ativestat/atividades/aula/sa17.php" id="book">aula</a></td>
